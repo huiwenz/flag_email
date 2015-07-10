@@ -1,4 +1,5 @@
 /// <reference path="uia.d.ts" />
+"use strict"
 
 host.onActivate = function () {
     console.log("onActivate");
